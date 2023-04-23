@@ -1,23 +1,22 @@
-### Hi there 👋
-**AresXD/AresXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there   👋
+**AresXD/AresXD** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently studding in Beihang University.
-- 🌱 I’m currently learning intelligent software testing and software security.
-- 👯 I’m looking to collaborate on software testing and software security.
-- 📫 How to reach me: IrisG@buaa.edu.cn
-- 😄 Pronouns: xx
-- ⚡ Fun fact: Games/animation/music
-<!--
-**AresXD/AresXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### - 🔭 I’m currently studying in Beihang University.
+##### - 🌱 I’m currently learning intelligent software testing and software security.
+##### - 👯 I’m looking to collaborate on software testing and software security.
+##### - 📫 How to reach me: IrisG@buaa.edu.cn
+##### - 😄 Pronouns: xx
+##### - ⚡ Fun fact: Games/animation/music
 
-Here are some ideas to get you started:
+#### Language                                               
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AresXD)](https://github.com/AresXD/github-readme-stats)
 
-- 🔭 I’m currently studding in Beihang University.
-- 🌱 I’m currently learning intelligent software testing and software security.
-- 👯 I’m looking to collaborate on software testing and software security.
-- 📫 How to reach me: IrisG@buaa.edu.cn
-- 😄 Pronouns: xx
-- ⚡ Fun fact: Games/animation/music
--->
+#### Repo state
+
+![AresXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AresXD&show_icons=true&theme=tokyonight)
+
+
+
+
+
